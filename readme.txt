@@ -13,3 +13,5 @@ i am on master
 i create a branch named feature2
 
 i create dev again
+
+i refix a bug
